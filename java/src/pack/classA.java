@@ -14,8 +14,6 @@ public class classA {
 		{
 			System.out.println("a is odd number");
 		}
-		
-		
-	}
+	}	
 
 }
